@@ -1,6 +1,7 @@
 *.zip
 *.pem
 *.ppk
+*.jpg
 bin
 etc
 include
