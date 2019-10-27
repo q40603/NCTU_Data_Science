@@ -1,0 +1,8 @@
+*.zip
+*.pem
+*.ppk
+bin
+etc
+include
+share
+lib
